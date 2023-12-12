@@ -3,7 +3,7 @@ This file and its tests are individualized for NetID vdwavhal.
 """
 import numpy as np
 import torch as tr
-
+import torch
 def mountain1d(x):
     """
     Input: float x
